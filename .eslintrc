@@ -1,0 +1,7 @@
+{
+  "rules": {
+    // allow debugger during development
+    "no-debugger": "off",
+    "vue/no-use-v-if-with-v-for": "off"
+}
+}
