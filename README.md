@@ -1,4 +1,4 @@
-# vue_start_wars
+# star wars
 
 ## Project
 ```
